@@ -22,6 +22,7 @@
 	<key>Platforms</key>
 	<array>
 		<string>com.apple.platform.iphoneos</string>
+		<string>com.apple.platform.appletvos</string>
 	</array>
 	<key>Options</key>
 	<array>
